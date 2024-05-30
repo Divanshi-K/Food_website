@@ -1,0 +1,532 @@
+.nav{
+    background-color:#f9f6ee;
+    height: 80px;
+    text-align: center;
+}
+.navbar{
+    margin-left: 350px;
+}
+.nav a{
+    text-decoration: none;
+    color:black;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: 350;
+}
+.nav a:hover{
+    color:rgb(245, 245, 138);
+}
+.banner{
+    background-image: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+    height: 686px;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.circletext{
+    color: black;
+    width: 250px;
+    height: 250px;
+    background-color: greenyellow;
+    border-radius: 150px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    font-family: Raleway,sans-serif;
+    padding: 30px 22px;
+    font-weight: bolder;
+}
+
+.textc{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.textp{
+    font-size: 20px;
+    font-weight: 800;
+}
+.text h5{
+    color: white;
+    margin-bottom: 0;
+    margin-top: 20px;
+    position: relative;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-align: left;
+    flex-shrink:0px ;
+}
+.text h1{
+    color: white;
+    margin: 21px 60px 0px 0px;
+    font-weight: 700;
+    font-family: Montserrat,sans-serif;
+}
+.text p{
+    color: white;
+    margin: 21px 150px 0 0;
+    font-family: Raleway,sans-serif;
+}
+.text a{
+    color: greenyellow;
+    text-decoration: none;
+}
+.button{
+    margin: 30px 0 0 0;
+}
+.btn a{
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    padding: 16px 46px 17px;
+    border-radius: 50px;
+    margin-left: -28px;
+}
+.btn a:hover{
+    background-color: rgb(237, 229, 115);
+    color: #000;
+} 
+.dishes{
+    background-color: #000;
+    color: white;
+    font-family: Raleway,sans-serif;
+}
+.images_por{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 115px 0 115px;
+}
+.sec{
+    margin-bottom: 47px;
+    margin-top: 47px;
+    display: flex;
+    flex-direction: column;
+    margin: 47px 0 47px 0;
+}
+.images{
+    height: 307px;
+    display: grid;
+    grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+    grid-gap: 20px;
+}
+.img1{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+    background-position: 50% 50%;
+    display: flex;
+    border-radius: 5%;
+}
+.fortext{
+    padding: 65px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+}
+.imgtext{
+    text-align: center;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700
+}
+.img2{
+    background-image: url(https://images.all-free-download.com/images/graphiclarge/attractive_food_highdefinition_picture_170665.jpg);
+    background-position: 50% 50%;
+    display: flex;
+    border-radius: 5%;
+}
+.img3{
+    background-image: url(https://th.bing.com/th/id/OIP.R_CkfX8tWnC_b4n64aqQbgHaE8?pid=ImgDet&rs=1);
+    background-position: 50% 50%;
+    display: flex;
+    border-radius: 5%;
+}
+.images_por2{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 115px 0 115px;
+}
+.t_27{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Raleway,sans-serif;
+    margin-top: 250px;
+
+}
+.bwg{
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 15px;
+    font-family: Raleway,sans-serif;
+}
+.beef_text{
+    margin-top: 23px;
+    font-family: Raleway,sans-serif;
+    font-weight: 0px;
+    font-size: 18px;
+}
+.beef_last_t{
+    font-size: 20px;
+    font-family: Raleway,sans-serif;
+}
+.beef_freepik{
+    text-decoration: none;
+    color: rgb(255, 170, 0);
+}
+.beefimg{
+    width: 100%;
+}
+.beefimg1{
+    border-radius: 30px;
+    width: 105%;
+}
+.img4{
+    background-image:url(https://th.bing.com/th/id/OIP.NXYCMupfLxAp4FDHkGaCugAAAA?pid=ImgDet&rs=1) ; 
+    background-position: 10% 70%;
+    display: flex;
+    border-radius: 5%;
+}
+.img5{
+    background-image: url(https://bing.com/th?id=OSK.3ca004cc094a315199958623a5575431);
+    background-position: 10% 80%;
+    display: flex;
+    border-radius: 5%;
+}
+.img6{
+    background-image: url(https://th.bing.com/th/id/OIP.kAyDz_xkbgfipxFwzP1rLgHaKX?pid=ImgDet&rs=1);
+    background-position: 1% 80%;
+    display: flex;
+    border-radius: 5%;
+}
+.img_por3{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 115px 0 115px;
+}
+
+.croissant{
+    height: 490px;
+    margin-left: -12px;
+    width: 456px;
+}
+.text_4{
+    margin-top: 250px;
+}
+.t_14{
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+}
+.crois_text{
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.croissant_para{
+    font-family: Raleway,sans-serif;
+    margin-top: 5px;
+    margin-top: 23px;
+    font-size: 17px;
+}
+.crois_last_t{
+    font-size: 20px;
+    font-family: Raleway,sans-serif;
+}
+.crois_freepik{
+    text-decoration: none;
+    color: rgb(255, 170, 0);
+}
+.second_heading{
+    text-align: center;
+}
+.h{
+    font-family: Raleway,sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.heading_line1{
+    text-align: center;
+    font-size: 17px;
+    margin-top:20px;
+    font-family: Raleway,sans-serif;
+}
+.heading_freepik{
+    text-decoration: none;
+    color: rgb(255, 170, 0);
+}
+.pizza{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.pizza_img{
+    width: 100%;
+    border-radius: 30px;
+    height: 396px;
+}
+.pizza_h{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.salad{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.salad_img{
+    width: 100%;
+    border-radius: 30px;
+    height: 396px;
+}
+.salad_h{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.pizza_btn{
+    text-decoration: none;
+    background-color: greenyellow;
+    border-radius: 50px;
+    text-align: center;
+    color: black;
+    height: 60px;
+    padding: 16px 42px 16px 43px;
+    margin: 30px auto 10px auto;
+}
+.pizza_btn:hover{
+    background-color: rgb(148, 240, 9);
+}
+.salad_btn{
+    text-decoration: none;
+    background-color: greenyellow;
+    border-radius: 50px;
+    text-align: center;
+    color: black;
+    height: 60px;
+    padding: 16px 42px 16px 43px;
+    margin: 30px auto 10px auto;
+}
+.salad_btn:hover{
+    background-color: rgb(148, 240, 9);
+}
+.desert{
+    display: flex;
+    flex-direction: columnrgb(148, 240, 9);
+    padding: 10px;
+}
+.desert_img{
+    width: 100%;
+    border-radius: 30px;
+    height: 400px;
+}
+.desert_h{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.drinks{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.drinks_img{
+    width: 100%;
+    border-radius: 30px;
+    height: 396px;
+}
+.drinks_h{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.desert_btn{
+    text-decoration: none;
+    background-color: greenyellow;
+    border-radius: 50px;
+    text-align: center;
+    color: black;
+    height: 60px;
+    padding: 16px 42px 16px 43px;
+    margin: 30px auto 10px auto;
+}
+.desert_btn:hover{
+    background-color: rgb(148, 240, 9);
+}
+.drinks_btn{
+    text-decoration: none;
+    background-color: greenyellow;
+    border-radius: 50px;
+    text-align: center;
+    color: black;
+    height: 60px;
+    padding: 16px 42px 16px 43px;
+    margin: 30px auto 10px auto;
+}
+.drinks_btn:hover{
+    background-color: rgb(148, 240, 9);
+}
+.images_por3{
+    height: 630px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 115px 0 115px;
+}
+.swc_matter{
+    margin-top: 180px;
+}
+.swc_14{
+    font-family: Raleway,sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+.swc_heading{
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 15px;
+    font-family: Raleway,sans-serif;
+}
+.swc_para{
+    margin-top: 23px;
+    font-family: Raleway,sans-serif;
+    font-weight: 0px;
+    font-size: 20px;
+}
+.swc_link{
+    font-family: Raleway,sans-serif;
+    font-size: 20px;
+}
+.swc_freepik{
+    text-decoration: none;
+    color: rgb(255, 170, 0);
+}
+.swc_img1{
+    border-radius: 35px;
+    width: 580px;
+    height: 550px;
+    padding: 40 0 10 0;
+}
+.banner2{
+    background-image: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/vegetables-set-left-black-slate.jpg);
+    height: 686px;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.bn_heading{
+    width: 800px;
+    margin-top: 90px;
+    margin-left: 0%;
+}
+.bn_heading2{
+    font-family: Montserrat,sans-serif;
+    font-weight: 750;
+    color: white;
+    font-size: 50px;
+}
+.bn_para{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.bn_inp_btn{
+    display: flex;
+    margin-top: 30px;
+}
+.bn_input{
+    width: 900px;
+    height: 50px;
+    border-radius: 20px;
+    border-style: none;
+    padding: 10px 12px 10px 12px;
+    color: black;
+}
+.bn_btn_a{
+    text-decoration: none;
+    background-color: greenyellow;
+    color: black;
+    justify-content: center;
+    border-radius: 127px;
+    height: 50px;
+    padding: 14px 42px 16px 43px;
+    margin-left: 20px;
+    font-family: Montserrat,sans-serif;
+}
+.icon{
+    background-color: #1a1919;
+    color: white;
+    font-family: Raleway,sans-serif;
+    height: 390px;
+}
+.oval{
+    margin-top: 100px;
+    margin-left: 140px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50px;
+    background-color: #99e54d;
+}
+.fa-solid{
+    color: black;
+    padding: 33px 8px 20px 8px;
+}
+.tx_icon{
+    margin-top: 20px;
+    margin-left: 107px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.icon_para{
+    margin-top: 25px;
+    margin-left: 50px;
+    font-family: Raleway,sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.icon_link{
+    margin-top: 25px;
+    margin-left: 90px;
+    font-family: Raleway,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #f1ae0e;
+}
+.tx_icon2{
+    margin-top: 20px;
+    margin-left: 137px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+}
+.icon_link2{
+    margin-top: 25px;
+    margin-left: 90px;
+    font-family: Raleway,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #f1ae0e;
+}
+.fa-sharp{
+    color: black;
+    padding: 33px 8px 20px 8px;
+}
+.fa-solid{
+    color: black;
+    padding: 33px 8px 20px 8px;
+}

@@ -1,0 +1,473 @@
+.landing{
+    background-color:#f9f6ee;
+}
+.nav{
+    background-color:#f9f6ee;
+    height: 80px;
+    text-align: center;
+}
+.navbar{
+    margin-left: 350px;
+}
+.nav a{
+    text-decoration: none;
+    color:black;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: 350;
+}
+.nav a:hover{
+    color:rgb(245, 245, 138);
+}
+.row1{
+    height: 90px;
+}
+.row2{
+    height: 690px;
+}
+.part1{
+    height: 690px;
+}
+.part1_inn1{
+    background-color: #99e54d;
+    width: 550px;
+    height: 620px;
+    border-radius: 40px;
+}
+.top_img{
+    width: 550px;
+    height: 620px;
+    border-radius: 40px;
+    
+}
+.circle{
+    text-align: right;
+    justify-content: right;
+}
+.circletext{
+    color: white;
+    width: 225px;
+    height: 225px;
+    background-color: black;
+    border-radius: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: Raleway,sans-serif;
+    padding: 36px 22px;
+    font-weight: bolder;
+    margin-left: 310px;
+}
+.textc{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.textp{
+    font-size: 20px;
+    font-weight: 800;
+}
+.text{
+    color: white;
+}
+.top_h1{
+    color: white;
+    font-weight: bold;
+    font-family: Raleway,sans-serif;
+    margin-left: 30px;
+}
+.top_h2{
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+    font-family: Raleway,sans-serif;
+    margin-left: 30px;
+    margin-top: 19px;
+}
+.top_h2 span{
+    cursor: pointer;
+}
+.top_h3{
+    color: white;
+    font-weight: 750;
+    font-size: 50px;
+    font-family: Raleway,sans-serif;
+    margin-left: 30px;
+    margin-top: 19px;
+}
+.btn a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    padding: 16px 46px 17px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.btn a:hover{
+    background-color: white;
+    color: #000;
+}
+.menu_heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.row3{
+    height: 100px;
+}
+.menu_line{
+    text-align: center;
+    margin-top: 30px;
+}
+.line{
+    font-size: 18px; 
+    font-weight: 400;
+}
+.line span{
+    color: orange;
+    font-weight: bold
+}
+.row4{
+    height: 600px;
+}
+.card1_in{
+    height: 520px;
+    width: 380px;
+    background-color:white;
+    border-radius: 40px;
+}
+.pizza{
+    border-radius: 60px;
+    padding: 30px 30px 30px 30px;
+}
+.card_heading{
+    font-weight: bold;
+    text-align: center;
+}
+.card_btn{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.card_btn1{
+    text-decoration: none;
+    background-color:#99e54d;
+    border: none;
+    color: black;
+    font-weight: 400;
+    padding: 12px 46px 17px;
+    border-radius: 50px;
+}
+.row5{
+    height: 550px;
+}
+.contact{
+    background-color: black;
+    height: 290px;
+    width: 1125px;
+    margin-top: 60px;
+    border-radius: 60px;
+    margin-left: 40px ;
+}
+.contact_h{
+    text-align: center;
+    font-weight: 650;
+    font-size: 55px;
+    margin-top: 40px;
+    color: white;
+}
+.contact_para{
+    text-align: center; 
+    margin-top: 20px; 
+    font-size: 18px; 
+    font-weight: 350;
+    color: white;
+}
+.fa-solid{
+    color: #99e54d;
+    height: 20px;
+
+}
+.c_para{
+    text-align: center;
+    font-size: 40px;
+    font-weight:650 ;
+    color: white;
+}
+.c_para:hover{
+    color:#99e54d ;
+}
+.row6{
+    height: 690px;
+    margin-top: 80px;
+}
+.temp1{
+    height: 565px;
+    width: 530px;
+    background-color: #99e54d;
+    border-radius: 40px;
+}
+.temp_img{
+    height: 565px;
+    width: 530px;
+    border-radius: 40px;
+}
+.temp1{
+    height: 565px;
+    width: 530px;
+    background-color: #99e54d;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+.temp_text{
+    padding: 100px 30px 30px 20px;
+}
+.temp_heading{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.temp_para{
+    margin-top: 13px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+.temp_para2{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+}
+.temp_para2 span{
+    cursor: pointer;
+}
+.temp_btn{
+    color: white;
+    font-weight: 750;
+    font-size: 15px;
+    font-family: Raleway,sans-serif;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.temp_btn a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    padding: 16px 46px 17px;
+    border-radius: 50px;
+}
+.temp_btn a:hover{
+    background-color: white;
+    color: #000;
+}
+.row7{
+    height: 670px;
+}
+.temp_text2{
+    padding: 150px 30px 30px 20px;
+}
+.temp2{
+    height: 565px;
+    width: 530px;
+    background-color: black;
+    border-radius: 40px;
+}
+.temp_img2{
+    height: 565px;
+    width: 530px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+.temp_heading2{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+.temp_para3{
+    margin-top: 13px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 48px;
+    color: white;
+}
+.temp_para4{
+    text-align: center;
+    font-size: 17px;
+    color: white;
+}
+.temp_para4 span{
+    cursor: pointer;
+}
+.temp_btn2{
+    color: white;
+    font-weight: 750;
+    font-size: 15px;
+    font-family: Raleway,sans-serif;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.temp_btn2 a{
+    text-decoration: none;
+    background-color: #99e54d;
+    color: black;
+    font-weight: 700;
+    padding: 16px 46px 17px;
+    border-radius: 50px;
+}
+.temp_btn2 a:hover{
+    background-color: white;
+}
+.blog_heading{
+    cursor: pointer;
+    color: #4756c9;
+    font-weight: 300 ;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.blog_heading1{
+    text-align: center;
+    margin-top: 20px;
+}
+.blog_heading2{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 17px;
+    padding: 10px 27px 15px;
+}
+.blog_btn{
+    color: white;
+    font-weight: 750;
+    font-size: 15px;
+    font-family: Raleway,sans-serif;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.blog_btn a{
+    text-decoration: none;
+    background-color: #99e54d;
+    color: black;
+    font-weight: 700;
+    padding: 20px 36px 17px;
+    border-radius: 50px;
+}
+.blog_btn a:hover{
+    background-color: orange;
+    color: white;
+}
+.contact1{
+    background-color: #99e54d;
+    height: 290px;
+    width: 1125px;
+    margin-top: 60px;
+    border-radius: 60px;
+    margin-left: 40px ;
+}
+.contact_h1{
+    text-align: center;
+    font-weight: 650;
+    font-size: 55px;
+    margin-top: 40px;
+    color: black;
+}
+.contact_para1{
+    text-align: center; 
+    margin-top: 20px; 
+    font-size: 18px; 
+    font-weight: 350;
+    color: black;
+}
+.Contact_input{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.cont_inp1{
+    border: none;
+    border-radius: 20px;
+    height: 50px;
+    width: 300px;
+    margin-left: 20px;
+}
+.cont_btn{
+    background-color: #000;
+    color: white;
+    text-decoration: none;
+    padding: 11px 37px 13px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+.temp3{
+    height: 565px;
+    width: 530px;
+    background-color: #99e54d;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+.part1_inn2{
+    background-color: #99e54d;
+    width: 550px;
+    height: 580px;
+    border-radius: 40px;
+}
+.part1_inn3{
+    background-color:white;
+    color: black;
+    width: 550px;
+    height: 580px;
+    border-radius: 40px;
+}
+.bn_icon1{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    border-radius: 35px;
+    margin-top: 80px;
+}
+.icon1{
+    color: white;
+    margin-left: 19px;
+    margin-top: 35px;
+}
+.bn5_h{
+    margin-top: 74px;
+    font-weight: 780;
+}
+.bn5_p{
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 5px;
+}
+.bn5_a{
+    text-decoration: none;
+    color: #99e54d;
+    font-weight: 550;
+    font-size: 19px;
+}
+.bn_icon2{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    border-radius: 35px;
+    margin-top: 106px;
+}
+.icon2{
+    color: white;
+    margin-left: 23px;
+    margin-top: 35px;
+}
+.bn_icon3{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    border-radius: 35px;
+    margin-top: 114px;
+}
+.icon3{
+    color: white;
+    margin-left: 19px;
+    margin-top: 35px;
+}

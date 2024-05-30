@@ -1,0 +1,375 @@
+.home{
+    background-color:#f9f6ee;
+}
+.nav{
+    background-color:#f9f6ee;
+    height: 80px;
+    text-align: center;
+}
+.navbar{
+    margin-left: 350px;
+}
+.nav a{
+    text-decoration: none;
+    color:black;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: 350;
+}
+.nav a:hover{
+    color:rgb(245, 245, 138);
+}
+.banner{
+    background-image: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+    height: 726px;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 1130px;
+    border-radius: 40px;
+    margin-top: 50px;
+}
+.circletext{
+    color: black;
+    width: 250px;
+    height: 250px;
+    background-color: greenyellow;
+    border-radius: 150px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    font-family: Raleway,sans-serif;
+    padding: 30px 22px;
+    font-weight: bolder;
+}
+
+.textc{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.textp{
+    font-size: 20px;
+    font-weight: 800;
+}
+.text h5{
+    color: white;
+    margin-bottom: 0;
+    margin-top: 20px;
+    position: relative;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-align: left;
+    flex-shrink:0px ;
+}
+.text h1{
+    color: white;
+    margin: 21px 60px 0px 0px;
+    font-weight: 700;
+    font-family: Montserrat,sans-serif;
+}
+.text p{
+    color: white;
+    margin: 21px 150px 0 0;
+    font-family: Raleway,sans-serif;
+}
+.text a{
+    color: greenyellow;
+    text-decoration: none;
+}
+.button{
+    margin: 30px 0 0 0;
+}
+.btn a{
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    padding: 16px 46px 17px;
+    border-radius: 50px;
+    margin-left: -28px;
+}
+.btn a:hover{
+    background-color: rgb(237, 229, 115);
+    color: #000;
+}
+.heading{
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    font-size: 50px;
+}
+.img1{
+    width: 250px;
+    border-radius: 25px;
+    height: 200px;
+    margin-top: 20px;
+}
+.dish_heading{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.dish_btn1{
+    text-align: center; 
+    margin-top: 30px;
+}
+.dish_btn{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    background-color: orange;
+    justify-content: center;
+    border-radius: 127px;
+    padding: 14px 28px 15px 24px;
+    margin-left: 8px;
+    font-family: Montserrat,sans-serif;
+}
+.dish_btn{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    border-radius: 40px;
+    width: 180px;
+    height: 60px;
+    border: 0px;
+}
+.line{
+    font-size: 18px; 
+    font-weight: 350;
+    margin-top: 10px;
+}
+.line span{
+    color: orange;
+}
+.contact{
+    background-color: white;
+    height: 290px;
+    width: 1125px;
+    margin-top: 60px;
+    border-radius: 60px;
+    margin-left: 40px ;
+}
+.contact_h{
+    text-align: center;
+    font-weight: 650;
+    font-size: 55px;
+    margin-top: 40px;
+}
+.fa-solid{
+    color: orange;
+    height: 20px;
+
+}
+.c_para{
+    text-align: center;
+    font-size: 40px;
+    font-weight:650 ;
+}
+.c_para:hover{
+    color:#99e54d ;
+}
+.banner2{
+    background-image: url(	https://assets.nicepagecdn.com/11a8ddce/4267640/images/fresh-salad-with-turkey-eggs-vegetables.jpg);
+    height: 616px;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 1130px;
+    border-radius: 40px;
+    margin-top: 60px;
+}
+.ban_2{
+    color: white;
+    margin-top: 240px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.ban2_h{
+    color: white;
+    font-size: 46px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.bn2_para{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: -8px;
+}
+.bn2_btn{
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    padding: 16px 46px 17px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: -14px;
+}
+.bn2_btn:hover{
+    background-color: rgb(237, 229, 115);
+    color: #000;
+}
+.blog{
+    background-color: white;
+    height: 430px;
+    width: 270px;
+    margin-top: 20px;
+    border-radius: 40px;
+    margin-left: 15px;
+}
+.cont_para1{
+    text-decoration: none;
+    color: #4756C9;
+    font-weight: 400;
+    margin-top: 10px;
+    text-align: center;
+}
+.blog1{
+    margin-left: 20px;
+    padding: 20px ;
+}
+.blog_h{
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 34px;
+}
+.blog_para{
+    margin-top: 20px;
+    font-weight: 350;
+    text-align: center;
+}
+.blog_btn{
+    margin-top: 40px;
+}
+.blog_btn1{
+    text-decoration: none;
+    color: black;
+    background-color: #99e54d;
+    font-weight: 600;
+    padding: 16px 28px 17px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 16px;
+}
+.blog_btn1:hover{
+    background-color: orange;
+    color: white;
+}
+.blog_fLine{
+    font-size: 19px;
+    font-weight: 350;
+    text-align: center;
+}
+.blog_fLine_span{
+    color: rgb(246, 126, 40); 
+    font-weight: 500;
+}
+.blog_fLine_span:hover{
+    color: rgb(212, 143, 14);
+    cursor: pointer;
+}
+.banner3{
+    background-image: url(https://evermorefarm.com/wp-content/uploads/2016/11/bigstock-Juicy-Steak-Medium-Rare-Beef-W-123326303.jpg);
+    height: 586px;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 1130px;
+    border-radius: 40px;
+    margin-top: 50px;
+}
+.contact2_inp{
+    width: 430px;
+    height: 50px;
+    border-radius: 20px;
+    padding: 10px 12px 10px 12px;
+    margin-left: 290px;
+    font-size: 15px;
+    font-weight: 450;
+}
+.bn_btn_a{
+    text-decoration: none;
+    background-color: greenyellow;
+    color: black;
+    justify-content: center;
+    border-radius: 127px;
+    height: 50px;
+    padding: 14px 42px 16px 43px;
+    margin-left: 20px;
+    font-family: Montserrat,sans-serif;
+}
+.banner4{
+    background-image: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+    height: 586px;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 1130px;
+    border-radius: 40px;
+    margin-top: 50px;
+}
+.ban5_white{
+    background-color: white;
+    height: 600px;
+    width: 1125px;
+    margin-left: 45px;
+    border-radius: 50px;
+}
+.bn5_button{
+    margin-top: 30px;
+}
+.bn_icon1{
+    height: 70px;
+    width: 70px;
+    background-color: #99e54d;
+    border-radius: 35px;
+    margin-top: 80px;
+}
+.icon1{
+    color: #000;
+    margin-left: 19px;
+    margin-top: 35px;
+}
+.part_5{
+    width: 110px;
+}
+.bn5_h{
+    margin-top: 90px;
+    font-weight: 780;
+}
+.bn5_p{
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 5px;
+}
+.bn5_a{
+    text-decoration: none;
+    color: orange;
+    font-weight: 550;
+    font-size: 19px;
+}
+.bn_icon2{
+    height: 70px;
+    width: 70px;
+    background-color: #99e54d;
+    border-radius: 35px;
+    margin-top: 106px;
+}
+.icon2{
+    color: #000;
+    margin-left: 23px;
+    margin-top: 35px;
+}
+.bn_icon3{
+    height: 70px;
+    width: 70px;
+    background-color: #99e54d;
+    border-radius: 35px;
+    margin-top: 130px;
+}
+.icon3{
+    color: #000;
+    margin-left: 19px;
+    margin-top: 35px;
+}
